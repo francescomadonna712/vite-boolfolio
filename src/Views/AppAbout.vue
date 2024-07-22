@@ -1,22 +1,15 @@
 <script>
 export default {
 
-  
-name:
-'AppAbout',
-
-
-
+    name:
+        'AppAbout',
 
 }
 </script>
 
 <template>
-<h1>About</h1>
-ciao a tutti
+    <h1>About</h1>
+    ciao a tutti
 </template>
 
-<style >
-
-
-</style>
+<style></style>

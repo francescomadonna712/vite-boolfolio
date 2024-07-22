@@ -1,9 +1,8 @@
 <script>
 export default {
 
-name: "AppHome"
+    name: "AppHome"
 }
-
 
 </script>
 
@@ -11,11 +10,10 @@ name: "AppHome"
 
 <template>
 
-<section>
-<h1 class="mt-5 mb-3">Homepage</h1>
-questa e l'hompage
-</section>
+    <section>
+        <h1 class="mt-5 mb-3">Homepage</h1>
+        questa e l'hompage
+    </section>
 
 </template>
-<style scoped>
-</style>
+<style scoped></style>

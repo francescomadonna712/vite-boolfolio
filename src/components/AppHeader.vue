@@ -43,14 +43,7 @@ export default {
 </template>
 
 <style scoped>
-header {
-    background-color: #f8f9fa;
-    padding: 20px;
-    text-align: center;
-}
-
 li {
     list-style: none;
-
 }
 </style>
